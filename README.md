@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dstallings1
-- 👀 I’m interested in women of color
+- 👀 I’m interested in women
 - 🌱 I’m currently learning packet sniffing
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me home
